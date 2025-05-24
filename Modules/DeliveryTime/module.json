@@ -1,0 +1,13 @@
+{
+    "name": "DeliveryTime",
+    "alias": "deliverytime",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DeliveryTime\\Providers\\DeliveryTimeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

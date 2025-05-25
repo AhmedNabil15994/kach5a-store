@@ -24,3 +24,4 @@ site_colors.json in /Modules/DeveloperTools/
 ```
  php artisan db:seed --class=WorldSeeder
 ```
+ 

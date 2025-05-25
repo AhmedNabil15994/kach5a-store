@@ -1,6 +1,6 @@
-## About Dukan Project
+## About Kach5a Project
 
-Dukan Ecommerce Project
+Kach5a Ecommerce Project
 
 ## Note To add necessary files <br>
 ```
